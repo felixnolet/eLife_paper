@@ -12,8 +12,8 @@ cell1d_hpc.f95:
 FHN_ODEsolver.nb:
   Mathematica code to solve ODE sytem, used for Fig 1. Produces a figure of time series of the solutions. Same result can be obtained with fhn1d_hpc.f95 when setting D=0.
 
-toy1d1.f95:
+nuc1d.f95:
   Code for nuclear import model in 1d. Used for Fig 3. Positions of nuclei can be changed in the code.
 
-toy2d.f95:
+nuc2d.f95:
   Code for nuclear import model in 2d (Fig 3).
